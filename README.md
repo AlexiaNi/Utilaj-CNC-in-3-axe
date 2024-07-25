@@ -13,7 +13,9 @@ materiale), funcția sa principală fiind prelucrarea prin
 Mașina funcționează cu ajutorul unui portal fix,
 folosind blocuri de rulmenți pentru toate cele 3
 șuruburi cu bile pentru a asigura lipsa jocului axial
-sau radial.
+sau radial.  
+
+<img src="/imagini/CAD_1.JPG">
 
 # Specificatii tehnice
 Mașina funcționează cu ajutorul unui portal fix,
