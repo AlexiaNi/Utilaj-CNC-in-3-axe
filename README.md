@@ -38,5 +38,8 @@ Proiect destinat concursului Infoeducatie 2024, etapa Nationala
 # Note 
 
 **Toate fisierele din folderul /CAD au fost proiectate integral de catre mine. Pentru realizarea intregului model a fost nevoie si de modele de piese deja existente (ex: suruburi cu bile, motoare, profil de aluminiu), acestea fiind preluate direct de pe siteul producatorului.**  
-**Link model CAD integral: https://cad.onshape.com/documents/0605b5bb4de247e096583688/w/131eb906aaf4e910033de213/e/7ede7ffe2cfb8d843a1881a0?renderMode=0&uiState=66a65126e441701766a9c6d4** 
+  
+**Link model CAD integral: https://cad.onshape.com/documents/0605b5bb4de247e096583688/w/131eb906aaf4e910033de213/e/7ede7ffe2cfb8d843a1881a0?renderMode=0&uiState=66a65126e441701766a9c6d4**   
+  
+**Demonstrație gravură: https://youtu.be/CO0v9CvhzEA**
 
